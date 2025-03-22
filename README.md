@@ -9,7 +9,7 @@ This project walks you through building your first FPGA game step by step. You'l
 2️⃣To program the FPGA, install the required USB driver: [Download USB CDC Driver](https://productdata.numato.com/assets/downloads/common/numato_lab_usb_cdc_driver.zip)    
 3️⃣We will use **Xilinx ISE 14.7** for FPGA development: [Download Xilinx ISE 14.7](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_ISE_S6_Win10_14.7_ISE_VMs_0206_1.zip)  
 4️⃣To upload bitstreams to the FPGA, install **ElbertV2Config.exe**: [Download ElbertV2Config](https://productdata.numato.com/assets/downloads/fpga/elbertv2/ElbertV2Config.exe)  
-5️⃣ **Additional Resources:** Learn more about the **Elbert V2 board** and **ISE Design Suite**: [Elbert V2 Documentation](https://docs.numato.com/doc/elbert-v2-spartan-3a-fpga-development-board/)  
+5️⃣ **Additional Resources**: [Elbert V2 Documentation](https://docs.numato.com/doc/elbert-v2-spartan-3a-fpga-development-board/)  
 
 ---
 
