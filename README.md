@@ -21,12 +21,14 @@ This project walks you through building your first FPGA game step by step. You'l
 
 To display graphics, we need to understand how the VGA controller works.  
 
-### 📌 VGA Controller Overview  
-![VGA Controller Diagram](https://github.com/hassan-salloum/FPGA_VGA/blob/master/Documentation/VGACONTROLLER.png)  
+### 📌 VGA Controller Simplified view  
+![image](https://github.com/user-attachments/assets/e7333760-7048-4121-a9a6-636c664ee5b6)
+ 
 
 ### 📌 Horizontal & Vertical Synchronization  
 This explains how VGA timing works and how we can use it to draw images in the **VGA_sync module**.  
-![VGA Synchronization](https://github.com/hassan-salloum/FPGA_VGA/blob/master/Documentation/HVSYNC.png)  
+![image](https://github.com/user-attachments/assets/6dad003c-cafb-440d-9191-594125f6ebbd)
+
 
 ---
 
