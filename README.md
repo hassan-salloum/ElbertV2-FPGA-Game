@@ -26,7 +26,7 @@ This explains how VGA timing works and how we can use it to draw images in the *
 
 ---
 
-## 💻 Main Code Structure  
+## Main Code Structure  
 
 The project consists of **four core modules**:  
 - **🟢 TopModule** → Declares the VGA system inputs/outputs.  
