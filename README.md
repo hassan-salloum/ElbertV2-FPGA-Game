@@ -17,10 +17,10 @@ This project walks you through building your first FPGA game step by step. You'l
 
 To display graphics, we need to understand how the VGA controller works.  
 
-### 📌 VGA Controller Simplified view  
+### VGA Controller Simplified view  
 ![image](https://github.com/user-attachments/assets/e7333760-7048-4121-a9a6-636c664ee5b6)
  
-### 📌 Horizontal & Vertical Synchronization  
+### Horizontal & Vertical Synchronization  
 This explains how VGA timing works and how we can use it to draw images in the **VGA_sync module**.  
 ![image](https://github.com/user-attachments/assets/6dad003c-cafb-440d-9191-594125f6ebbd)
 
@@ -34,8 +34,6 @@ The project consists of **four core modules**:
 - **🟣 U2 - Counter** → Uses **25 MHz** input to synchronize **VGA_sync** and **TopModule**.  
 - **🟠 U3 - VGA_sync** → Handles **vertical & horizontal synchronization** and **video output**.  
 
-📌 This modular design ensures smooth synchronization and pixel rendering on the VGA display.  
-
 ---
 
 ## Get Started  
@@ -43,5 +41,3 @@ The project consists of **four core modules**:
 1️⃣ **Set up your FPGA board** and install all required software.  
 2️⃣ **Understand the VGA synchronization** and how it drives pixel rendering.  
 3️⃣ **Compile & upload the code** to test the game on your FPGA board.  
-
-Happy coding! 🎮💡 
